@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Umar Ali R 👋
 
-<!--
-**Umarali-048/Umarali-048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Backend Developer | B.E. Computer Science & Engineering Graduate**
 
-Here are some ideas to get you started:
+📍 Udumalpettai, Tamil Nadu, India  
+✉️ umar048ali@gmail.com | 📞 +91 9865247600  
+🔗 [LinkedIn](https://www.linkedin.com/in/umar-ali-137b1125b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** Java, Python, C, C++, SQL, HTML, CSS
+- **Frameworks & Tools:** Spring Boot, Maven, Postman, Git, JUnit, Linux
+- **Databases:** MySQL, MongoDB
+- **Core Concepts:** OOP, REST APIs, Data Structures, Agile, Debugging
+
+### 🚀 Projects
+- **HireFlow - Recruitment Management System:** Built with Java, Spring Boot, MySQL, and Thymeleaf with role-based authentication.
+- **AI-Driven Multi-Disease Prediction System:** Built with Python, FastAPI, React, and Scikit-learn to predict 5 major conditions (~87% model accuracy).
+- **AI Virtual Mouse Using Hand Gesture Recognition:** Real-time cursor control using Python, MediaPipe, and PyAutoGUI.
+
+### 💼 Internships
+- **Sataware Technologies** (Jun 2026 – Aug 2026) – Software & backend/database tasks
+- **E-Swasthik Solutions** – Android Development (Java, XML)
+- **Prodigy Infotech** – Data Science (Python)
+- **Addis IT & Skill Share Solutions** – Data Analytics & Networking
